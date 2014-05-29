@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-def prange(n):
-    for i in range(n):
+def pqrange(n):
+    for i in range(n, 9):
         print i
-        print "hello"
+        print "Hello World!!"
 
-prange(10)
+pqrange(5)
